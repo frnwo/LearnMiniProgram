@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text>home</text>
+<button size="mini">btn</button>
+<input type="submit" value="tijiao"></input>
